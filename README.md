@@ -29,6 +29,7 @@ Scan the local network using Nmap to identify active devices and open ports.
 ** Observation
 
 The scan identified three active devices on the local network. The router had DNS, HTTP, and HTTPS services open, while FTP, SSH, and Telnet ports were filtered. The other devices did not expose open TCP ports.
+I didn't hide the ip because it is private ip used by many devices.
 
 * Author 
 
