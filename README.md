@@ -1,41 +1,35 @@
-£ •Elevate Labs Internship - Task 1
+* Elevate Labs Internship - Task 1
 
-•Objective
+* Objective
 
-Scan my local network using Nmap to identify active devices and open ports.
+Scan the local network using Nmap to identify active devices and open ports.
 
-•Tools
+* Tools Used
 
 - Nmap
-- Linux Mint
+- Termux (Android)
+- GitHub
 
-•Status
+* Scan Results
 
- In Progress
-
-££ Author
-
-Vishal S K 
-
-
-
-
-• Scan Results
-
-• Active Devices
+** Active Devices
 
 - 192.168.1.1 (Router)
 - 192.168.1.3
-- 192.168.1.7 (Android device)
+- 192.168.1.7 (Android Device)
 
-• Open Ports Found
+** Open Ports
 
-| Port | Service | Status |
-|------|---------|--------|
+| Port | Service | State |
+|------|---------|-------|
 | 53 | DNS | Open |
 | 80 | HTTP | Open |
 | 443 | HTTPS | Open |
 
-• Observation
+** Observation
 
-The router exposes common network services such as DNS, HTTP, and HTTPS. FTP, SSH, and Telnet ports were filtered, indicating they are protected from direct access.
+The scan identified three active devices on the local network. The router had DNS, HTTP, and HTTPS services open, while FTP, SSH, and Telnet ports were filtered. The other devices did not expose open TCP ports.
+
+* Author
+
+Vishal
