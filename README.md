@@ -30,6 +30,6 @@ Scan the local network using Nmap to identify active devices and open ports.
 
 The scan identified three active devices on the local network. The router had DNS, HTTP, and HTTPS services open, while FTP, SSH, and Telnet ports were filtered. The other devices did not expose open TCP ports.
 
-* Author
+* Author 
 
 Vishal S K 
