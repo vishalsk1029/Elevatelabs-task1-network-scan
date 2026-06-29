@@ -1,2 +1,18 @@
-# Elevatelabs-task1-network-scan
-Task 1 - Local Network Port Scanning using Nmap (Elevate Labs Cybersecurity Internship)
+£ •Elevate Labs Internship - Task 1
+
+•Objective
+
+Scan my local network using Nmap to identify active devices and open ports.
+
+•Tools
+
+- Nmap
+- Linux Mint
+
+•Status
+
+ In Progress
+
+££ Author
+
+Vishal S K 
